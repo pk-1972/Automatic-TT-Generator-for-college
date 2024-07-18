@@ -1,4 +1,4 @@
-# TimeTable
+# TimeTable_Pk
 Automatic time table generation system.
 
 1)install Xampp server from https://www.apachefriends.org/download.html
